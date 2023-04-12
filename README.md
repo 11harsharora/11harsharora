@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Arora</h1>
-<h3 align="center">Cloud Architect | AI | AWS | Azure</h3>
+<h3 align="center">Cloud Architect | AWS | Azure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11harsharora&label=Profile%20views&color=0e75b6&style=flat" alt="11harsharora" /> </p>
 
