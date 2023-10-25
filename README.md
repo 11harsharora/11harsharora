@@ -19,7 +19,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11harsharora&show_icons=true&locale=en" alt="11harsharora" /></p>
+
 
 
 
